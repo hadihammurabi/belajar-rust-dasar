@@ -5,3 +5,4 @@ Belajar bahasa pemrograman Rust.
 * [hello](./src/hello) - menampilkan teks ke layar
 * [stdin](./src/stdin) - menerima input dari stdin
 * [mem](./src/mem) - memory management (ownership)
+* [structure](./src/structure) - structure (struct)
