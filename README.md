@@ -6,3 +6,4 @@ Belajar bahasa pemrograman Rust.
 * [stdin](./src/stdin) - menerima input dari stdin
 * [mem](./src/mem) - memory management (ownership)
 * [structure](./src/structure) - structure (struct)
+* [collection](./src/collection) - struktur data dasar
