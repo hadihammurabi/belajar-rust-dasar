@@ -7,3 +7,4 @@ Belajar bahasa pemrograman Rust.
 * [mem](./src/mem) - memory management (ownership)
 * [structure](./src/structure) - structure (struct)
 * [collection](./src/collection) - struktur data dasar
+* [errorhandling](./src/errorhandling) - penanganan error
