@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 mod clone;
 mod copy;
 mod reference;

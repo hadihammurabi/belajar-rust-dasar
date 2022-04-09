@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 use std::io;
 
 fn get_input(prompt: &str) -> String {

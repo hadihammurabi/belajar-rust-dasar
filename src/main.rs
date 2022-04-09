@@ -1,7 +1,9 @@
-mod hello;
-mod stdin;
+// mod hello;
+// mod stdin;
+// mod mem;
 
 fn main() {
-    hello::main();
-    stdin::main();
+    // hello::main();
+    // stdin::main();
+    // mem::main();
 }
