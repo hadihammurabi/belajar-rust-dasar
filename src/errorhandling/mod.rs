@@ -6,4 +6,5 @@ mod result;
 pub fn main() {
   // panics::basic();
   result::basic();
+  result::unwrap();
 }
