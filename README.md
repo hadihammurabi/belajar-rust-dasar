@@ -8,3 +8,4 @@ Belajar bahasa pemrograman Rust.
 * [structure](./src/structure) - structure (struct)
 * [collection](./src/collection) - struktur data dasar
 * [errorhandling](./src/errorhandling) - penanganan error
+* [fs](./src/fs) - mengelola file
