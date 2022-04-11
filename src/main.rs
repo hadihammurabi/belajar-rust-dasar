@@ -5,6 +5,7 @@
 // mod collection;
 // mod errorhandling;
 // mod fs;
+// mod generic;
 
 fn main() {
     // hello::main();
@@ -14,4 +15,5 @@ fn main() {
     // collection::main();
     // errorhandling::main();
     // fs::main();
+    // generic::main();
 }
