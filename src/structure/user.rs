@@ -1,6 +1,6 @@
 #![allow(dead_code)]
-#[derive(Debug)]
 
+#[derive(Debug)]
 pub struct User {
   pub username: String,
   pub fullname: String,
