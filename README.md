@@ -9,3 +9,4 @@ Belajar bahasa pemrograman Rust.
 * [collection](./src/collection) - struktur data dasar
 * [errorhandling](./src/errorhandling) - penanganan error
 * [fs](./src/fs) - mengelola file
+* [generic](./src/generic) - mengelola beberapa tipe data
