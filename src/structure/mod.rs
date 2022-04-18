@@ -2,7 +2,7 @@
 mod user;
 
 pub fn main() {
-  let u1 = user::new_user("alexunder", "Alex Under");
+  let u1 = user::User::new("alexunder", "Alex Under");
   u1.say_hello();
 
   let u2 = user::User {
