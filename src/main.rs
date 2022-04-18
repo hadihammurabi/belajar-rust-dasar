@@ -6,10 +6,7 @@
 // mod errorhandling;
 // mod fs;
 // mod generic;
-
-// #[cfg(test)]
-// #[path = "./test/mod.rs"]
-// mod tests;
+// mod test;
 
 fn main() {
     // hello::main();
