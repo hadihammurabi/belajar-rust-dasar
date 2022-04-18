@@ -5,7 +5,11 @@
 // mod collection;
 // mod errorhandling;
 // mod fs;
-mod generic;
+// mod generic;
+
+// #[cfg(test)]
+// #[path = "./test/mod.rs"]
+// mod tests;
 
 fn main() {
     // hello::main();
@@ -15,5 +19,5 @@ fn main() {
     // collection::main();
     // errorhandling::main();
     // fs::main();
-    generic::main();
+    // generic::main();
 }
