@@ -5,7 +5,7 @@
 // mod collection;
 // mod errorhandling;
 // mod fs;
-mod function;
+// mod function;
 // mod generic;
 // mod test;
 // mod concurrent;
@@ -18,7 +18,7 @@ fn main() {
     // collection::main();
     // errorhandling::main();
     // fs::main();
-    function::main();
+    // function::main();
     // generic::main();
     // concurrent::main();
 }
