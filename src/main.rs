@@ -1,7 +1,7 @@
 // mod basic;
-mod design_pattern;
+// mod design_pattern;
 
 fn main() {
     // basic::main();
-    design_pattern::main();
+    // design_pattern::main();
 }
