@@ -10,4 +10,7 @@ pub fn main() {
     ..u1
   };
   u2.say_hello();
+
+  let user::User { username, fullname } = u2;
+  println!("destructure u2 into variable -> value -> username: {}, fullname: {}", username, fullname)
 }
