@@ -2,6 +2,7 @@
 mod vector;
 mod hashmap;
 mod array;
+mod slice;
 
 pub fn main() {
   println!("");
@@ -15,4 +16,8 @@ pub fn main() {
   println!("");
   println!("--==:: ARRAY ::==--");
   array::main();
+
+  println!("");
+  println!("--==:: SLICE ::==--");
+  slice::main();
 }
