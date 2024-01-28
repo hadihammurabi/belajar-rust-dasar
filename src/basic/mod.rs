@@ -9,6 +9,7 @@
 // mod generic;
 // mod test;
 // mod concurrent;
+// mod array;
 
 pub fn main() {
   // hello::main();
@@ -21,4 +22,5 @@ pub fn main() {
   // function::main();
   // generic::main();
   // concurrent::main();
+  // array::main();
 }
