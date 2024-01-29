@@ -1,5 +1,6 @@
 #![allow(dead_code)]
 mod user;
+mod role;
 
 pub fn main() {
   let u1 = user::User::new("alexunder", "Alex Under");
@@ -11,6 +12,6 @@ pub fn main() {
   };
   u2.say_hello();
 
-  let user::User { username, fullname } = u2;
+  let user::User { username, fullname, role: _} = u2;
   println!("destructure u2 into variable -> value -> username: {}, fullname: {}", username, fullname)
 }
